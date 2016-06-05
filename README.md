@@ -9,6 +9,7 @@ Permet d'avoir toutes les fonts de Google Fonts dans Photoshop
 ## HTML
 
 **Codes pour les principales lettres accentuées : **  
+maintenir la touche ALT appuyée et à saisir le code Unicode du caractère  
 Á = alt 181  
 Â = alt 182  
 À = alt 183  
